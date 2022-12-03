@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LTCE Connect</string>
+    <string name="enter_your_question">Enter your Question ?</string>
+    <string name="write_your_answer">Write your Answer</string>
+
+
+    <string name="hyperlink">Are you Intrested in Coding <a href="https://leetcode.com/contest/weekly-contest-317/">leetcode.com </a></string>
+    <string name="hyper">NEW <a href="https://rapyd.hackerearth.com/">Hackerearth.com/ </a></string>
+
+</resources>
+
