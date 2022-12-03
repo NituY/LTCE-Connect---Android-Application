@@ -6,7 +6,7 @@ LTCE connect is an open-source application that is made for everyone. In LTCE co
  - XML
  - SQLite Android
  
-## Android Dependencies
+## Android Dependencies 📱
 
 - [Recyclerview](https://developer.android.com/jetpack/androidx/releases/recyclerview)
  - [Viewmodel](https://developer.android.com/jetpack/androidx/releases/lifecycle)
@@ -23,7 +23,7 @@ LTCE connect is an open-source application that is made for everyone. In LTCE co
 - E-NoticeBoard
 - Hackathons 
 
-## Screenshots
+## Screenshots 📱
 ![Screenshot 2022-12-04 034524](https://user-images.githubusercontent.com/108191093/205464586-b4a143fc-9a87-4193-b978-7c0737562364.png)                                ![Screenshot 2022-12-04 034615](https://user-images.githubusercontent.com/108191093/205464607-3301bb5f-da9b-40c8-847a-354cfd58103a.png)
 
 ![Screenshot 2022-12-04 034723](https://user-images.githubusercontent.com/108191093/205464610-9fd65cc4-479b-4519-8efb-6fa2284a3104.png)
