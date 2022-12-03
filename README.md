@@ -24,3 +24,4 @@ LTCE connect is an open-source application that is made for everyone. In LTCE co
 - Hackathons 
 
 ## Screenshots
+![Screenshot 2022-12-03 191941](https://user-images.githubusercontent.com/108191093/205464100-83f6d13d-0b62-4523-b41c-4904529b7f1b.png)
